@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceJsonToXml.DotNetFw461", "WebServiceJsonToXml.DotNetFw461\WebServiceJsonToXml.DotNetFw461.csproj", "{4F1668BB-BE0D-4E25-918E-DE42D5A74878}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS", "WebServiceJsonToXml.DotNetFw461\WS.csproj", "{4F1668BB-BE0D-4E25-918E-DE42D5A74878}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
