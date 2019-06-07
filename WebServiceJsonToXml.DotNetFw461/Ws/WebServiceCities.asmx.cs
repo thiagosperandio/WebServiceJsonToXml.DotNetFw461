@@ -39,6 +39,7 @@ namespace WebServiceJsonToXml.DotNetFw461.Ws
 
         public class City
         {
+            public int Id { get; set; }
             public string Longitude { get; set; }
             public string Name_uri { get; set; }
             public string Name { get; set; }
@@ -46,7 +47,6 @@ namespace WebServiceJsonToXml.DotNetFw461.Ws
             public string Pais { get; set; }
             public string Summary { get; set; }
             public string Latitude { get; set; }
-            public int Id { get; set; }
         }
         
         public class CitiesList
